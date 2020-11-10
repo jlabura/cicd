@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="converter" tests="4" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.050105">
+    <testsuite name="SitePoint\Converter\ConverterTest" file="/var/www/html/backend/noviUnit/converter/tests/SitePoint/Converter/ConverterTest.php" tests="4" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.050105">
+      <testsuite name="SitePoint\Converter\ConverterTest::testStringConversionSuccess" tests="4" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.050105">
+        <testcase name="testStringConversionSuccess with data set #0" class="SitePoint\Converter\ConverterTest" classname="SitePoint.Converter.ConverterTest" file="/var/www/html/backend/noviUnit/converter/tests/SitePoint/Converter/ConverterTest.php" line="165" assertions="1" time="0.031371"/>
+        <testcase name="testStringConversionSuccess with data set #1" class="SitePoint\Converter\ConverterTest" classname="SitePoint.Converter.ConverterTest" file="/var/www/html/backend/noviUnit/converter/tests/SitePoint/Converter/ConverterTest.php" line="165" assertions="1" time="0.005166"/>
+        <testcase name="testStringConversionSuccess with data set #2" class="SitePoint\Converter\ConverterTest" classname="SitePoint.Converter.ConverterTest" file="/var/www/html/backend/noviUnit/converter/tests/SitePoint/Converter/ConverterTest.php" line="165" assertions="1" time="0.006050"/>
+        <testcase name="testStringConversionSuccess with data set #3" class="SitePoint\Converter\ConverterTest" classname="SitePoint.Converter.ConverterTest" file="/var/www/html/backend/noviUnit/converter/tests/SitePoint/Converter/ConverterTest.php" line="165" assertions="1" time="0.007518"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>

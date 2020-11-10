@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1605040143">
+  <project timestamp="1605040143">
+    <package name="SitePoint\Converter">
+      <file name="/var/www/html/backend/noviUnit/converter/src/SitePoint/Converter/Converter.php">
+        <class name="SitePoint\Converter\Converter" namespace="SitePoint\Converter">
+          <metrics complexity="2" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="3" coveredelements="3"/>
+        </class>
+        <line num="9" type="method" name="convertString" visibility="public" complexity="2" crap="2" count="4"/>
+        <line num="11" type="stmt" count="4"/>
+        <line num="12" type="stmt" count="4"/>
+        <metrics loc="17" ncloc="17" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="3" coveredelements="3"/>
+      </file>
+    </package>
+    <metrics files="1" loc="17" ncloc="17" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="3" coveredelements="3"/>
+  </project>
+</coverage>
